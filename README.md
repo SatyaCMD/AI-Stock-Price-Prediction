@@ -30,3 +30,6 @@ Clone the repository and install dependencies:
 git clone https://github.com/SatyaCMD/ai-stock-predictor.git
 cd ai-stock-predictor
 npm install
+
+
+## Unzip  the src,public and supabase folder and keep it in the main folder of the project folder.
