@@ -32,5 +32,3 @@ cd ai-stock-predictor
 npm install
 
 ```
-
-## Unzip  the src,public and supabase folder and keep it in the main folder of the project folder.
